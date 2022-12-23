@@ -81,6 +81,6 @@ main(){
 }
 </code>
 
-## Output
-![uas 2](https://user-images.githubusercontent.com/98698495/208585623-49ec562a-5156-4af8-96db-ef3e68e52760.png)
-![uas 2 1](https://user-images.githubusercontent.com/98698495/208585642-618615f9-cd27-4fc6-bad1-7bd9594ab3b9.png)
+## Hasil
+<img width="656" alt="Screenshot 2022-12-24 004031" src="https://user-images.githubusercontent.com/121307307/209381794-ab4da6f5-8976-477c-8240-2941528d914e.png">
+
