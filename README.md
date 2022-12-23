@@ -5,7 +5,7 @@
 <br>Jurusan		    	:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 
-## Array Dua Dimensi
+## Deskripsi Umum
 <br>Menampilkan deret aritmatika bilangan yag tidak habis dibagi 3, 5, 7. Input baris pertama merupakan banyaknya baris sedangkan baris kedua merupakan banyaknya kolom. Batas input adalah 0-20 . Output merupakan bilangan yang tidak habis dibagi 3, 5, 7.
 
 
@@ -80,6 +80,6 @@ main(){
 }
 </code>
 
-## Hasil
+## Output
 <img width="656" alt="Screenshot 2022-12-24 004031" src="https://user-images.githubusercontent.com/121307307/209381794-ab4da6f5-8976-477c-8240-2941528d914e.png">
 
