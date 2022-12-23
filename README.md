@@ -6,7 +6,13 @@
 
 
 ## Deskripsi Umum
-<br>Menampilkan deret aritmatika bilangan yag tidak habis dibagi 3, 5, 7. Input baris pertama merupakan banyaknya baris sedangkan baris kedua merupakan banyaknya kolom. Batas input adalah 0-20 . Output merupakan bilangan yang tidak habis dibagi 3, 5, 7.
+<br>Menampilkan deret aritmatika bilangan yag tidak habis dibagi 3, 5, 7. Input baris pertama merupakan banyaknya baris sedangkan baris kedua merupakan banyaknya kolom. Batas input adalah 0-20 . Output merupakan bilangan yang tidak habis dibagi 3, 5, 7. Algorima dari program ini adalah :
+1. User menginputkan berapa banyak baris pada array mulai dari range 0-20.
+2. User menginputkan berapa banyak baris pada array mulai dari range 0-20.
+3. User menginputkan satu persatu nilai array,dimulai dari baris 1 dan kolom 1.
+4. Jika sudah,nilai dalam array tersebut di tampilkan sesuai aturan matriks.
+5. Kemudian nilai divalidasi kembali apakah nilai tersebut habis dibagi 3,5 dan 7.
+6. Apabila nilai tadi habis dibagi 3,5 dan 7, maka nilai tidak akan ditampilkan, apabila tidak habis. tampilkan kembali kepada user
 
 
 ## Source Code
