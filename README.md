@@ -1,13 +1,12 @@
 # Ujian-Akhir-Semester_Dasar-Pemograman_1227050017
-<br>Mata Kuliah 	: Dasar Pemograman
-<br>Nama		      : Alwan Maulana Firdaus
-<br>NIM		        :	1227050017
-<br>Jurusan		    :[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+<br>Mata Kuliah 		: Dasar Pemograman
+<br>Nama		      	: Alwan Maulana Firdaus
+<br>NIM		           	:	1227050017
+<br>Jurusan		    	:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 
 ## Array Dua Dimensi
-<br>1. Menampilkan banyaknya baris dan kolom, kemudian diisi dengan suatu nilai. Setelah itu, menampilkan perubahan dari baris menjadi kolom dan kolom menjadi baris
-<br>2. Menampilkan deret aritmatika bilangan yag tidak habis dibagi 3, 5, 7. Input baris pertama merupakan banyaknya baris sedangkan baris kedua merupakan banyaknya kolom. Batas input adalah 0-20 . Output merupakan bilangan yang tidak habis dibagi 3, 5, 7.
+<br>Menampilkan deret aritmatika bilangan yag tidak habis dibagi 3, 5, 7. Input baris pertama merupakan banyaknya baris sedangkan baris kedua merupakan banyaknya kolom. Batas input adalah 0-20 . Output merupakan bilangan yang tidak habis dibagi 3, 5, 7.
 
 
 ## Source Code
